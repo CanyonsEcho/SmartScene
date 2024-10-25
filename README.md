@@ -12,6 +12,10 @@
 - TextMeshPro (for samples, if you uncheck the folder or delete it later then this requirement doesnt matter)
 - Half a brain
 
+## How to Use
+Pretty much you can send data by calling SmartScene.ChangeSceneWithData("scene name", variables), you can add as much variables as you want
+To load the variables use SmartScene.GetDataFromSceneChange<variableType (like float)>(the number of variable starting from 0)
+
 ## Installation
 ### Unity Package
 1. Open Unity and right click on the Project window
