@@ -15,9 +15,8 @@
 ## Installation
 ### Unity Package
 1. Open Unity and right click on the Project window
-![Example Image](https://example.com/path/to/image.png)
 2. Click on Import Package
-![Example Image](https://example.com/path/to/image.png)
+![Example Image](images/step1.png)
 3. Select the SmartScene package
 4. Click Import andor uncheck Samples folder if you would like!
-![Example Image](https://example.com/path/to/image.png)
+![Example Image](images/step2.png)
