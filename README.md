@@ -8,9 +8,9 @@
 - Minimal setup required.
 
 ## Reuqirements
-Unity 5.3 (2018.4 LTS Recommended for better DLL support)
-TextMeshPro (for samples, if you uncheck the folder or delete it later then this requirement doesnt matter)
-Half a brain
+- Unity 5.3 (2018.4 LTS Recommended for better DLL support)
+- TextMeshPro (for samples, if you uncheck the folder or delete it later then this requirement doesnt matter)
+- Half a brain
 
 ## Installation
 ### Unity Package
