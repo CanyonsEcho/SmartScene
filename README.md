@@ -19,5 +19,5 @@
 2. Click on Import Package
 ![Example Image](https://example.com/path/to/image.png)
 3. Select the SmartScene package
+4. Click Import andor uncheck Samples folder if you would like!
 ![Example Image](https://example.com/path/to/image.png)
-4. Click Import or uncheck Samples folder if you would like!
